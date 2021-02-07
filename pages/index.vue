@@ -11,12 +11,7 @@
 </template>
 
 <script>
-import Dot from '~/components/Dot';
-export default {
-	components: {
-		Dot,
-	},
-};
+export default {};
 </script>
 
 <style>
